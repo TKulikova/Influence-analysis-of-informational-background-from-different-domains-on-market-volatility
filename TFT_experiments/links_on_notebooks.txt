@@ -1,0 +1,6 @@
+The following notebooks are too big to be downloaded on GitHub, so there are the links to them on Google Colab.
+1) Apple TFT experiments - https://colab.research.google.com/drive/1HUKLg2XlyAEM3tDXKrQfurYHcKgxU-4z?usp=sharing
+2) Amazon TFT experiments - https://colab.research.google.com/drive/1lb18Rfbx8o28p0wTdkk6WnbvDoeMoiTl?usp=sharing
+3) Google TFT experiments - https://colab.research.google.com/drive/1KrraV0L-YRDJSrZO-MG5MoNCLsPjHn65?usp=sharing
+4) Netflix TFT experiments - https://colab.research.google.com/drive/1ZbXI4R7BWrg5qVVFYEk-_RYV02gFTyW7?usp=sharing
+5) Tesla TFT experiments - https://colab.research.google.com/drive/1Y3m17UMPQKZ-C42fbcKa1EqxO4iR3K1C?usp=sharing
